@@ -1,0 +1,11 @@
+name: Ticket
+description: Generic ticket template
+title: "[Ticket] <title>"
+labels: ["enhancement"]
+body:
+  - type: textarea
+    attributes:
+      label: Description
+      description: A clear and concise description of what you want to happen.
+    validations:
+      required: true
