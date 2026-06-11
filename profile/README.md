@@ -5,8 +5,9 @@
   </picture>
 </p>
 
+<h3 align="center">Build Knowledgeable AI</h3>
+
 <p align="center">
-  <b>Build Knowledgeable AI</b><br>
   Pinecone is the leading vector database for building accurate, performant AI<br>
   applications at scale. We give models long-term memory and access to your data<br>
   so they can reason over what they know and retrieve what they don't. Trusted by<br>
