@@ -14,8 +14,8 @@
 </p>
 
 <p align="center">
-  - <a href="https://www.pinecone.io/">Get Started</a> -
-  <a href="https://docs.pinecone.io">Documentation</a> -
-  <a href="https://www.pinecone.io/blog/">Blog</a> -
-  <a href="https://www.pinecone.io/community/">Community</a> -
+  <a href="https://www.pinecone.io/">Website</a> &nbsp;·&nbsp;
+  <a href="https://docs.pinecone.io">Documentation</a> &nbsp;·&nbsp;
+  <a href="https://www.pinecone.io/blog/">Blog</a> &nbsp;·&nbsp;
+  <a href="https://www.pinecone.io/community/">Community</a>
 </p>
