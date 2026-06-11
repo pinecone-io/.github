@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://www.pinecone.io/images/pinecone-logo.svg" alt="Pinecone" width="320">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pinecone-io/.github/main/profile/pinecone-lockup-white.svg">
+    <img src="https://raw.githubusercontent.com/pinecone-io/.github/main/profile/pinecone-lockup-black.svg" alt="Pinecone" width="300">
+  </picture>
 </p>
 
 <p align="center">
