@@ -33,7 +33,7 @@
 
 - Official clients: [Python](https://github.com/pinecone-io/python-sdk), [TypeScript](https://github.com/pinecone-io/pinecone-ts-client), [Go](https://github.com/pinecone-io/go-pinecone), [Java](https://github.com/pinecone-io/pinecone-java-client)
 - Examples: [notebooks](https://github.com/pinecone-io/examples) and [sample apps](https://github.com/pinecone-io/sample-apps)
-- AI assistants: [AI coding tools](https://docs.pinecone.io/guides/get-started/ai-coding-tools) and [Pinecone MCP](https://github.com/pinecone-io/pinecone-mcp) 
+- AI coding tools: [setup guide](https://docs.pinecone.io/guides/get-started/ai-coding-tools) and [Pinecone MCP](https://github.com/pinecone-io/pinecone-mcp)
 - Infrastructure as code: [Terraform provider](https://github.com/pinecone-io/terraform-provider-pinecone)
 
 New to vector databases? Start with the [quickstart](https://docs.pinecone.io/guides/get-started/quickstart).
